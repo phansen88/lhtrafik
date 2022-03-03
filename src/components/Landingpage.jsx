@@ -1,10 +1,10 @@
 import frederiksberg from '../img/frederiksberg.jpg'; // with import
 function Landingpage() {
   return (
-    <section class="text-gray-600 body-font overflow-hidden">
-      <div class="container px-8 py-24 mx-auto">
-        <div class="mx-auto flex flex-wrap">
-          <div class="lg:w-1/2 w-full lg:pr-10 lg:py-6 mb-6 lg:mb-0">
+    <section className="text-gray-600 body-font overflow-hidden">
+      <div className="container px-8 py-24 mx-auto">
+        <div className="mx-auto flex flex-wrap">
+          <div className="lg:w-1/2 w-full lg:pr-10 lg:py-6 mb-6 lg:mb-0">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block xl:inline">Velkommen til </span>
@@ -34,7 +34,7 @@ function Landingpage() {
           </div>
           <img
             alt="frederiksberg"
-            class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
+            className="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
             src={frederiksberg}
           />
         </div>

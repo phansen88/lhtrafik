@@ -1,19 +1,30 @@
 function Footer() {
   return (
-    <footer class="container mx-auto pt-6 px-4 sm:px-6 lg:px-8 text-gray-600 body-font">
-      <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
-        <p class="text-sm text-gray-500 sm:ml-4 sm:py-2 sm:mt-0 mt-4">
-          © 2022 LH Trafik
+    <footer className="container mx-auto pt-6 px-4 sm:px-6 lg:px-8 text-gray-600 body-font">
+      <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+        <p className="text-sm text-gray-500 sm:ml-4 sm:py-2 sm:mt-0 mt-4">
+          © 2022 LH Trafik — Lh Trafik v/Lene Hansen — 27 21 23 97 -{' '}
+          <a
+            className="text-indigo-600 font-bold"
+            href="mailto:lene@lhtrafik.dk"
+            target="_blank"
+          >
+            Send en mail
+          </a>
         </p>
-        <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-          <a class="ml-3 text-gray-500">
+        <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+          <a
+            href="https://linkedin.com/in/lene-hansen-54442311"
+            target="_blank"
+            className="ml-3 text-gray-500"
+          >
             <svg
               fill="currentColor"
               stroke="currentColor"
               stroke-linecap="round"
               stroke-linejoin="round"
               stroke-width="0"
-              class="w-5 h-5"
+              className="w-5 h-5"
               viewBox="0 0 24 24"
             >
               <path

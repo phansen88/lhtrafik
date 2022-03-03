@@ -1,8 +1,8 @@
 function About() {
   return (
-    <section class="text-gray-600 body-font overflow-hidden">
-      <div class="container px-8 py-24 mx-auto">
-        <div class="mx-auto flex flex-wrap">
+    <section className="text-gray-600 body-font overflow-hidden">
+      <div className="container px-8 py-24 mx-auto">
+        <div className="mx-auto flex flex-wrap">
           <div className="sm:text-center lg:text-left">
             <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
               <span className="block xl:inline">Om LH Trafik</span>
@@ -21,11 +21,6 @@ function About() {
               et rådgivende ingeniørfirma. Jeg er eksamineret
               trafiksikkerhedsrevisor fra 2003 og eksamineret
               tilgængelighedsrevisor fra 2007.
-            </p>
-            <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              CVR. Nr. 34 13 27 04
-              <br />
-              Bank: Reg. nr. Kontornr.
             </p>
           </div>
         </div>

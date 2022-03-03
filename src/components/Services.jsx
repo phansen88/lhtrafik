@@ -4,7 +4,7 @@ function Services() {
   return (
     <div>
       <section className="text-gray-600 body-font overflow-hidden">
-        <div className="container px-8 py-24 mx-auto">
+        <div className="container px-8 py-12 mx-auto">
           <div className="mx-auto flex flex-wrap">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
@@ -44,7 +44,7 @@ function Services() {
         </div>
       </section>
       <section className="text-gray-600 body-font">
-        <div className="container px-5 py-24 flex flex-col">
+        <div className="container px-5 py-5 flex flex-col">
           <div className="flex flex-wrap  sm:max-w-5xl">
             <div className="rounded-lg overflow-hidden">
               <img
@@ -115,7 +115,7 @@ function Services() {
         </div>
       </section>
       <section className="text-gray-600 body-font">
-        <div className="container px-5 py-24 flex flex-col">
+        <div className="container px-5 py-12 flex flex-col">
           <div className="flex flex-wrap  sm:max-w-5xl">
             <div className="rounded-lg overflow-hidden">
               <img
