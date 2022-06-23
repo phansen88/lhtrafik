@@ -6,7 +6,7 @@ function Footer() {
           © 2022 LH Trafik — Lh Trafik v/Lene Hansen — 27 21 23 97 -{' '}
           <a
             className="text-indigo-600 font-bold"
-            href="mailto:lene@lhtrafik.dk"
+            href="mailto:leha03@hotmail.com"
             target="_blank"
           >
             Send en mail
