@@ -10,7 +10,7 @@ function Portfolio() {
                   Igangværende opgaver
                 </span>
                 <span className="mt-1 text-gray-500 text-sm">
-                  01 Jan 2022 - Nu
+                  Maj 2023 Underrådgiver til Artelia Danmark ifm skitseprojekt for cykelstier på Mørdrupvej, Espegærde.
                 </span>
               </div>
               <div className="md:flex-grow">
@@ -18,7 +18,7 @@ function Portfolio() {
                   Ressourceperson i Lyngby-Taarbæk Kommune
                 </h2>
                 <p className="l eading-relaxed">
-                  Mere information om dette vil snart blive opdateret på siden.
+                  Bistår kommunen med de afsluttede arbejder herunder matrikulære ændringer efter forlængelse af Firskovvej, opbygning af den eksisterende del af Firskovvej samt etablering af fortov, cykelsti og udvidelse af baneoverskæring på Nørgaardsvej.
                 </p>
               </div>
             </div>
@@ -33,6 +33,11 @@ function Portfolio() {
           <div className="lg:w-2/3 w-full mx-auto overflow-auto">
             <table className="table-auto w-full text-left whitespace-no-wrap mb-12">
               <tbody>
+              <tr>
+                  <td className="px-4 py-3">
+                    April - maj 2023 Trafiksikkerheds- og tilgængelighedsrevision trin 3 Københavns Kommune. Genopretning 2023. Rønnegade og Hildursgade
+                  </td>
+                </tr>
                 <tr>
                   <td className="px-4 py-3">
                     Trafiksikkerhedsrevision trin 3 af 3 projekter til
